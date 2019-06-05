@@ -20,5 +20,4 @@ def speak_to_grandma(speech)
   elsif speech == "I LOVE YOU GRANDM!"
     puts "I LOVE YOU TOO PUMPKIN!"
   end
-end  
-  
+end
